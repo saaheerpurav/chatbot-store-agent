@@ -1,4 +1,4 @@
-# WhatsApp Chat-First Commerce Agent
+# WhatsApp Based Online Store Agent
 
 A **WhatsApp-based conversational commerce system** that enables users to discover products, place orders, and create support tickets entirely through chat, powered by an LLM-driven agent and semantic search.
 
@@ -11,7 +11,7 @@ The system integrates with **WhatsApp via Twilio**, processes text and voice mes
 
 ## High-Level Architecture
 
-![Architecture](https://private-user-images.githubusercontent.com/61731670/531541975-21945786-6549-4e7d-8593-292af103bfda.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjczODA3ODAsIm5iZiI6MTc2NzM4MDQ4MCwicGF0aCI6Ii82MTczMTY3MC81MzE1NDE5NzUtMjE5NDU3ODYtNjU0OS00ZTdkLTg1OTMtMjkyYWYxMDNiZmRhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAyVDE5MDEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MWVhNGMwMzMwNDc2MWRhMDkwMjFlNjBhY2EyYjM0YTVkYzQ3Y2QxNzczOWVkNGFmNTg5YmM1MzQwN2ZjYzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1QudYZKHxhHc_3XqBrZXVonzeKCdVveAZhAp4u7JAfo)
+![Architecture](https://raw.githubusercontent.com/saaheerpurav/portfolio/refs/heads/master/public/architecture.png)
 
 
 ## Request Flow
